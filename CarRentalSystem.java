@@ -1,4 +1,4 @@
-// File: CarRentalSystem.java
+
 import java.util.*;
 
 class Car {
@@ -87,3 +87,4 @@ public class CarRentalSystem {
         sc.close();
     }
 }
+
